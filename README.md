@@ -1,8 +1,8 @@
-# Sudharsan Portfolio
+# Sawan Portfolio
 
 Simple webpage crafted using pure HTML and CSS. A minimalistic showcase of structure and design.
 
-### Live Link: https://danielace1.github.io/Portfolio/
+### Live Link: https://Sawan.github.io/Portfolio/
 
 ## Features
 
@@ -27,7 +27,7 @@ To switch between these themes, link the desired theme's CSS file in your HTML. 
 
 ##### Connect with me on:
 
-- [Linked-in](https://www.linkedin.com/in/sudharsan-a-b40506290/)
-- [Instagram](https://instagram.com/sudharsan_daniel)
-- [Facebook](https"//https://www.facebook.com/sudharsandaniel.sudharsandaniel)
-- [Github](https://github.com/danielace1)
+- [Linked-in](https://www.linkedin.com/in/sawan-upadhyay123/)
+- [Instagram](https://www.instagram.com/krish_upadhyay256/)
+- [Facebook](https://x.com/Sawan24Upadhyay)
+- [Github](https://github.com/Sawan24)
