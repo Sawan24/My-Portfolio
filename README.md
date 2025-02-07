@@ -2,7 +2,7 @@
 
 Simple webpage crafted using pure HTML and CSS. A minimalistic showcase of structure and design.
 
-### Live Link: https://Sawan.github.io/Portfolio/
+### Live Link: https://sawan24.github.io/My-Portfolio/
 
 ## Features
 
@@ -29,5 +29,5 @@ To switch between these themes, link the desired theme's CSS file in your HTML. 
 
 - [Linked-in](https://www.linkedin.com/in/sawan-upadhyay123/)
 - [Instagram](https://www.instagram.com/krish_upadhyay256/)
-- [Facebook](https://x.com/Sawan24Upadhyay)
+- [Twitter](https://x.com/Sawan24Upadhyay)
 - [Github](https://github.com/Sawan24)
